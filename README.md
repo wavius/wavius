@@ -1,4 +1,4 @@
-<div align="left" style="max-width: 400px;">
+<div align="left" style="max-width: 250px;">
   <img src="cat_heart_glasses.jpg" 
        width="100%" 
        style="display: block; margin: 0;" />
